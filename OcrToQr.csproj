@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Leadtools.Barcode" Version="20.0.0.1" />
+    <PackageReference Include="Leadtools.Ocr" Version="20.0.0.1" />
+  </ItemGroup>
+
+</Project>
